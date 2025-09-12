@@ -1,0 +1,16 @@
+huggingface_hub
+pydantic
+unstructured[all-docs]
+langchain
+google-generativeai
+ctransformers 
+lxml
+tensorflow-probability 
+imageio 
+pillow
+tesseract
+gpt4all
+chromadb
+matplotlib
+sentence-transformers
+SentencePiece
