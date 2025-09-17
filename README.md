@@ -1,4 +1,4 @@
-# DocBot
+# YamahaBot
 
 ## Installation
 
@@ -32,3 +32,4 @@ Navigate to `client/` and run the following in the virtual environment to run th
 
 
 Now visit [http://localhost:3000/](http://localhost:3000/) to use the DocBot.
+
